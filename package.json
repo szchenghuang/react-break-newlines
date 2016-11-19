@@ -1,0 +1,36 @@
+{
+  "name": "react-break-newlines",
+  "author": "szchenghuang <szchenghuang@gmail.com>",
+  "version": "0.0.0",
+  "description": "Break a string to lines and wrap each line by a configurable wrapper.",
+  "main": "index.js",
+  "keywords": [
+    "react",
+    "break",
+    "newline",
+    "wrapper"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/szchenghuang/react-break-newlines/issues"
+  },
+  "homepage": "https://github.com/szchenghuang/react-break-newlines#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/szchenghuang/react-break-newlines.git"
+  },
+  "scripts": {},
+  "devDependencies": {
+    "babel-cli": "^6.9.0",
+    "babel-core": "^6.2.1",
+    "babel-loader": "^6.2.0",
+    "babel-preset-es2015": "^6.13.2",
+    "babel-preset-react": "^6.1.18",
+    "babel-register": "^6.11.6",
+    "react": "^0.14.3"
+  },
+  "peerDevDependencies": {
+    "react": "^0.14.3"
+  },
+  "dependencies": {}
+}
