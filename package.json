@@ -19,7 +19,9 @@
     "type": "git",
     "url": "git+https://github.com/szchenghuang/react-break-newlines.git"
   },
-  "scripts": {},
+  "scripts": {
+    "deploy": "rm -rf dist && mkdir dist && babel ./src --out-dir ./dist"
+  },
   "devDependencies": {
     "babel-cli": "^6.9.0",
     "babel-core": "^6.2.1",
