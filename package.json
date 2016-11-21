@@ -2,7 +2,7 @@
   "name": "react-break-newlines",
   "author": "szchenghuang <szchenghuang@gmail.com>",
   "version": "0.0.2",
-  "description": "Break a string to lines and wrap each line by a configurable wrapper.",
+  "description": "Break a string to lines at newlines, and either wrap each line by a configurable wrapper or append a `<br />` to each line.",
   "main": "index.js",
   "keywords": [
     "react",

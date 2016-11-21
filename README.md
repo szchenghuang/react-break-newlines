@@ -5,7 +5,7 @@
 # react-break-newlines #
 
 Break a string to lines at newlines, and either wrap each line by a configurable
-wrapper or append a <br /> to each line.
+wrapper or append a `<br />` to each line.
 
 ## Install ##
 
